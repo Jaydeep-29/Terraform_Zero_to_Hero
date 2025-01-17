@@ -1,7 +1,7 @@
 # Terraform_Zero_to_Hero
 **Day 1: Getting Started with Terraform**
 Introduction to Terraform and IaC
-In this session, we'll introduce you to the fundamental concepts of Terraform and Infrastructure as Code (IaC). Learn why Terraform is crucial for managing infrastructure and how IaC streamlines provisioning.
+In this session, we'll introduce you to  the fundamental concepts of Terraform and Infrastructure as Code (IaC). Learn why Terraform is crucial for managing infrastructure and how IaC streamlines provisioning.
 
 **Installing Terraform on MacOS, Linux and Windows**
 Get your hands dirty by installing Terraform on both MacOS, Linux and Windows. We'll guide you through the process with clear instructions and commands.
